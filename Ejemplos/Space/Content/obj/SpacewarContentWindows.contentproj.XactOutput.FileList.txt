@@ -1,3 +1,0 @@
-Content\Audio\SpaceWar.xgs
-Content\Audio\spacewar.xwb
-Content\Audio\spacewar.xsb

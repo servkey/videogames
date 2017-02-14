@@ -1,4 +1,0 @@
-Content\SpriteFont1.xnb
-Content\Texturas\Azul.xnb
-Content\Texturas\Rojo.xnb
-Content\Texturas\Neutral.xnb
